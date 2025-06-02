@@ -29,18 +29,6 @@ This project focuses on predicting rainfall occurrence (binary classification) u
 - Matplotlib, Seaborn
 - Imbalanced-learn (SMOTE)
 
-### 📦 requirements.txt
-```txt
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-xgboost
-catboost
-imbalanced-learn
-```
-
 ---
 
 ## 🧪 Model Evaluation
