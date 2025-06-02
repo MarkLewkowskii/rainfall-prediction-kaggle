@@ -64,7 +64,7 @@ Top 2% on Kaggle leaderboard with final ROC AUC: **~0.89**
 
 ## 👤 Author
 Project by **Maryna Dudik**  
-🧑‍💻 GitHub: [MarkLewkowskii](https://github.com/MarkLewkowskii)  
+👩‍💻 GitHub: [MarkLewkowskii](https://github.com/MarkLewkowskii)    
 🏅 Kaggle: [marinadudik](https://www.kaggle.com/marinadudik)
 
 
